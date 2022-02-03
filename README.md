@@ -4,7 +4,7 @@ I'm Toms Stašulāns
 
 I started to learn coding in 2021 with TypeScript. This was beggining of me understanding basics of programming world. Till now I have attended in two hardcore curses CODELEX and MC ALFA.
 
-I have worked with:
+I'm working with:
 Git;
 C#;
 .NET;
