@@ -23,7 +23,7 @@ Flight_planner. It was a new thing at the time which took me a lot of time to re
 
 Scooter_company. This was the most interesting project which seemed most meaningful for me because I think there will be much more things to rent in future. 🦾
 
-😲 Fun fact: I am probably going to win you in a fencing bout <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/person-fencing.png" width="20px">
+Fun fact: I am probably going to win you in a fencing bout <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/person-fencing.png" width="20px">
 
 Looking forward to learn more, gain experience and make useful things work.
 
