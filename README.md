@@ -21,7 +21,7 @@ sql_movies. In this project I had a good time writing those long queries which t
 
 Flight_planner. It was a new thing at the time which took me a lot of time to research and at the end get it done 😹
 
-Scooter_company. This was the most interesting project which seemed most meaningful for me because I think there will be much more things to rent in future. 🦾
+Scooter_company. This was the most interesting project which seemed most meaningful for me because I think there will be much more things to rent out in future. 🦾
 
 Fun fact: I am probably going to win you in a fencing bout <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/person-fencing.png" width="20px">
 
