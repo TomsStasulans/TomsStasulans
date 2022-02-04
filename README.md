@@ -28,4 +28,5 @@ Fun fact: I am probably going to win you in a fencing bout <img src="http://s3.a
 Looking forward to learn more, gain experience and make useful things work.
 
 You can reach me on facebook, via email: toms.stasulans@gmail.com
+
 And here is my LinkedIn profile https://www.linkedin.com/in/toms-stasulans-476b57230/
