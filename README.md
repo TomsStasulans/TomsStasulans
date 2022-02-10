@@ -2,7 +2,7 @@ Hello yellow <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/mas
 
 I'm Toms Stašulāns
 
-I started to learn coding in 2021 with TypeScript. This was beggining of me understanding basics of programming world. Till now I have attended in two hardcore curses CODELEX and MC ALFA.
+I started to learn coding in 2021 with TypeScript. This was beginning of me understanding basics of programming world. Till now I have attended in two hardcore curses CODELEX and MC ALFA.
 
 I'm working with:
 Git;
@@ -17,7 +17,7 @@ Design Patterns;
 HTML & CSS, VueJS, TypeScript & NodeJS basics;
 
 My recent projects:
-sql_movies. In this project I had a good time writing those long queries which turned out to be pritty fun 😎
+sql_movies. In this project I had a good time writing those long queries which turned out to be pretty fun 😎
 
 Flight_planner. It was a new thing at the time which took me a lot of time to research and at the end get it done 😹
 
