@@ -21,7 +21,7 @@ sql_movies. In this project I had a good time writing those long queries which t
 
 Flight_planner. It was a new thing at the time which took me a lot of time to research and at the end get it done 😹
 
-06-2021 C# Syllabus. All the basics of C# you need I got them in this project 😎
+06-2021 C# Syllabus. All the basics of C# you need. I got them in this project 😎
 
 Scooter_company. In progress 🦾
 
