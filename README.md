@@ -14,7 +14,7 @@ Unit Testing;
 Test Driven Development;
 Clean Code, SOLID;
 Design Patterns;
-HTML & CSS, VueJS, TypeScript & NodeJS basics;
+HTML & CSS, Angular, TypeScript & NodeJS basics;
 
 My recent projects:
 sql_movies. In this project I had a good time writing those long queries which turned out to be pretty fun 😎
